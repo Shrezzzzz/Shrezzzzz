@@ -1,17 +1,34 @@
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreya+Chowdhury+%F0%9F%91%8B;CSE+Student+%7C+Cybersecurity%2C+IoT+%26+Blockchain;Full-Stack+Dev+%7C+Cloud+%26+AI+Enthusiast;Building+Real+Projects%2C+One+Commit+at+a+Time)](https://github.com/Shrezzzzz)
+# Shreya Chowdhury 👋
+
+### CSE Student · Cybersecurity · IoT · Blockchain · Full-Stack Dev · Cloud & AI
+
+<sub>Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.</sub>
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/shreya-chowdhury-b81988293"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Shrezzzzz"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://shreyachowdhury.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:shreyachowdhury973@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Connect row -->
+<table><tr><td align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shrezzzzz&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
+**Connect**&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shreya-chowdhury-b81988293"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyachowdhury973@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</td><td align="center">
+
+**Explore**&nbsp;&nbsp;
+<a href="https://shreyachowdhury.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Shrezzzzz"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+</td></tr></table>
+
+<br/>
+
+<!-- Stats row -->
+<img src="https://komarev.com/ghpvc/?username=Shrezzzzz&label=Profile+Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/repos/Shrezzzzz?label=Public+Repos&color=6D28D9&style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
+<img src="https://img.shields.io/badge/National+Finalist-Top+150+·+16th+Rank-D97706?style=for-the-badge" alt="achievement"/>
 
 </div>
 
@@ -47,6 +64,7 @@ class ShreyaChowdhury:
     def fun_fact(self):
         return "CR for 3+ years — basically a human Slack bot 📣"
 ```
+
 
 
 
@@ -351,21 +369,96 @@ class ShreyaChowdhury:
 
 ## 🏆 Achievements
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:---:|---|---|
-| 🥇 | **National Finalist — Top 150 · 16th Rank** | National Cloud Innovation Challenge 2026 · among 1,500+ developers |
-| 🌟 | **Top 5000 Finalist** | Build With India 2025 |
-| 📣 | **Class Representative — 3+ Years** | Led communication & coordination for 60+ students |
-| 🎤 | **Volunteer — XPMC Learner Interaction Session** | Engaged and facilitated learning for 500+ students |
+<br/>
+
+# 🥇
+
+**National Finalist — Top 150 · 16th Rank**
+
+<sub>National Cloud Innovation Challenge 2026<br/>Competed among 1,500+ developers nationwide</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/National%20Cloud%20Innovation%20Challenge-2026-D97706?style=for-the-badge"/>
 
 </div>
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+
+<br/>
+
+# 🌟
+
+**Top 5000 Finalist**
+
+<sub>Build With India 2025<br/>Selected from tens of thousands of participants</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Build%20With%20India-2025-6D28D9?style=for-the-badge"/>
+
+</div>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+
+<br/>
+
+# 📣
+
+**Class Representative — 3+ Years**
+
+<sub>Led communication & coordination<br/>for 60+ students across 3 academic years</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Sister%20Nivedita%20University-2023–2027-0EA5E9?style=for-the-badge"/>
+
+</div>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+
+<br/>
+
+</tr>
+</table>
+
+> *"Learn, work, and build in public."*
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-*"Learn, work, and build in public."*
+<sub>Always open to collaborating on interesting projects, internship opportunities, or just a good tech chat.</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/shreya-chowdhury-b81988293"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyachowdhury973@gmail.com"><img src="https://img.shields.io/badge/Email-shreyachowdhury973%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://shreyachowdhury.onrender.com"><img src="https://img.shields.io/badge/Portfolio-shreyachowdhury.onrender.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Shrezzzzz"><img src="https://img.shields.io/badge/LeetCode-Shrezzzzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shrezzzzz&label=Profile+Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
 
 </div>
