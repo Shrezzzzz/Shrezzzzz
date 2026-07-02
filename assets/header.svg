@@ -18,7 +18,6 @@
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <!-- Reduced glow for name -->
     <filter id="nameglow">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -30,36 +29,64 @@
   </defs>
 
   <style>
-    /* Floating code lines — each drifts upward at a different speed/delay */
-    .fc1 { animation: floatUp 8s linear infinite; }
-    .fc2 { animation: floatUp 11s linear 1.5s infinite; }
-    .fc3 { animation: floatUp 9s  linear 3s   infinite; }
-    .fc4 { animation: floatUp 13s linear 0.8s infinite; }
-    .fc5 { animation: floatUp 10s linear 2.2s infinite; }
-    .fc6 { animation: floatUp 12s linear 4s   infinite; }
+    /* Each line starts at its own y position and slowly drifts up 40px over a long cycle */
+    .fc1 { animation: floatUp1 14s ease-in-out 0s   infinite; }
+    .fc2 { animation: floatUp2 16s ease-in-out 2s   infinite; }
+    .fc3 { animation: floatUp3 13s ease-in-out 4.5s infinite; }
+    .fc4 { animation: floatUp4 17s ease-in-out 1s   infinite; }
+    .fc5 { animation: floatUp5 15s ease-in-out 3s   infinite; }
+    .fc6 { animation: floatUp6 12s ease-in-out 6s   infinite; }
 
-    @keyframes floatUp {
-      0%   { transform: translateY(0px);   opacity: 0; }
-      10%  { opacity: 1; }
-      85%  { opacity: 0.6; }
-      100% { transform: translateY(-60px); opacity: 0; }
+    @keyframes floatUp1 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.75; }
+      80%  { opacity: 0.65; }
+      100% { transform: translateY(-45px); opacity: 0;   }
+    }
+    @keyframes floatUp2 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.70; }
+      80%  { opacity: 0.60; }
+      100% { transform: translateY(-40px); opacity: 0;   }
+    }
+    @keyframes floatUp3 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.80; }
+      80%  { opacity: 0.68; }
+      100% { transform: translateY(-42px); opacity: 0;   }
+    }
+    @keyframes floatUp4 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.72; }
+      80%  { opacity: 0.62; }
+      100% { transform: translateY(-38px); opacity: 0;   }
+    }
+    @keyframes floatUp5 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.78; }
+      80%  { opacity: 0.66; }
+      100% { transform: translateY(-44px); opacity: 0;   }
+    }
+    @keyframes floatUp6 {
+      0%   { transform: translateY(0px);   opacity: 0;   }
+      12%  { opacity: 0.70; }
+      80%  { opacity: 0.58; }
+      100% { transform: translateY(-36px); opacity: 0;   }
     }
 
-    /* Cursor blink */
     .cursor { animation: blink 1s step-end infinite; }
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50%       { opacity: 0; }
     }
 
-    /* Glitch flicker on greeting line */
     .glitch { animation: flicker 6s ease-in-out infinite; }
     @keyframes flicker {
-      0%, 95%, 100% { opacity: 1; }
-      96%            { opacity: 0.3; }
-      97%            { opacity: 1; }
-      98%            { opacity: 0.2; }
-      99%            { opacity: 1; }
+      0%, 94%, 100% { opacity: 1; }
+      95%            { opacity: 0.3; }
+      96%            { opacity: 1; }
+      97%            { opacity: 0.2; }
+      98%            { opacity: 1; }
     }
   </style>
 
@@ -70,10 +97,10 @@
   <rect width="1200" height="200" fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-opacity="0.5"/>
 
   <!-- Corner brackets -->
-  <polyline points="8,30 8,8 30,8"         fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
-  <polyline points="8,170 8,192 30,192"     fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
-  <polyline points="1192,30 1192,8 1170,8"  fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
-  <polyline points="1192,170 1192,192 1170,192" fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
+  <polyline points="8,30 8,8 30,8"              fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
+  <polyline points="8,170 8,192 30,192"          fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
+  <polyline points="1192,30 1192,8 1170,8"       fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
+  <polyline points="1192,170 1192,192 1170,192"  fill="none" stroke="#7c3aed" stroke-width="2" stroke-opacity="0.9"/>
 
   <!-- Glitch accent bars -->
   <rect x="0"   y="42"  width="600" height="1"   fill="#7c3aed" fill-opacity="0.25"/>
@@ -91,34 +118,40 @@
   <text x="38" y="102" font-family="Courier New, monospace" font-size="14"
         fill="#94a3b8" letter-spacing="1">I am</text>
 
-  <!-- Name — reduced glow (stdDeviation 1.5 instead of 4) -->
   <text x="34" y="143" font-family="Segoe UI, Arial Black, sans-serif"
         font-size="46" font-weight="900" fill="#ffffff"
         filter="url(#nameglow)" letter-spacing="1">Shreya Chowdhury</text>
 
-  <!-- Status line -->
   <text x="38" y="172" font-family="Courier New, monospace" font-size="12"
         fill="#22c55e" filter="url(#greenglow)" letter-spacing="0.5">$ status: coding &amp; creating </text>
   <rect x="259" y="159" width="10" height="14" fill="#22c55e" class="cursor"/>
 
-  <!-- === FLOATING CODE SNIPPETS (animated, unique content) === -->
-  <text x="608" y="185" font-family="Courier New, monospace" font-size="11"
-        fill="#a855f7" fill-opacity="0.55" letter-spacing="0.3" class="fc1">import { passion } from 'code'</text>
+  <!-- === FLOATING CODE SNIPPETS ===
+       Spread across full height (y = 30 to 180), font-size 13, readable opacity -->
 
-  <text x="582" y="175" font-family="Courier New, monospace" font-size="11"
-        fill="#7c3aed" fill-opacity="0.50" letter-spacing="0.3" class="fc2">git commit -m "keep going"</text>
+  <!-- Line 1 — top area -->
+  <text x="600" y="38" font-family="Courier New, monospace" font-size="13"
+        fill="#c084fc" letter-spacing="0.4" class="fc1">import &#123; passion &#125; from 'code'</text>
 
-  <text x="615" y="185" font-family="Courier New, monospace" font-size="11"
-        fill="#a855f7" fill-opacity="0.48" letter-spacing="0.3" class="fc3">const skills = [ ...growing ]</text>
+  <!-- Line 2 — upper-mid -->
+  <text x="578" y="72" font-family="Courier New, monospace" font-size="13"
+        fill="#a78bfa" letter-spacing="0.4" class="fc2">git commit -m "keep going"</text>
 
-  <text x="576" y="180" font-family="Courier New, monospace" font-size="11"
-        fill="#7c3aed" fill-opacity="0.45" letter-spacing="0.3" class="fc4">// debug → learn → repeat</text>
+  <!-- Line 3 — mid -->
+  <text x="605" y="105" font-family="Courier New, monospace" font-size="13"
+        fill="#c084fc" letter-spacing="0.4" class="fc3">const skills = [ ...growing ]</text>
 
-  <text x="596" y="185" font-family="Courier New, monospace" font-size="11"
-        fill="#a855f7" fill-opacity="0.42" letter-spacing="0.3" class="fc5">deploy --env=production ✓</text>
+  <!-- Line 4 — mid-lower -->
+  <text x="572" y="135" font-family="Courier New, monospace" font-size="13"
+        fill="#a78bfa" letter-spacing="0.4" class="fc4">// debug &#8594; learn &#8594; repeat</text>
 
-  <text x="568" y="180" font-family="Courier New, monospace" font-size="10"
-        fill="#7c3aed" fill-opacity="0.38" letter-spacing="0.3" class="fc6">while(alive) { keepBuilding(); }</text>
+  <!-- Line 5 — lower -->
+  <text x="594" y="162" font-family="Courier New, monospace" font-size="13"
+        fill="#c084fc" letter-spacing="0.4" class="fc5">deploy --env=production ✓</text>
+
+  <!-- Line 6 — bottom -->
+  <text x="566" y="190" font-family="Courier New, monospace" font-size="12"
+        fill="#a78bfa" letter-spacing="0.4" class="fc6">while(alive) &#123; keepBuilding(); &#125;</text>
 
   <!-- === PHOTO === -->
   <ellipse cx="1060" cy="100" rx="116" ry="116" fill="none" stroke="#7c3aed"
