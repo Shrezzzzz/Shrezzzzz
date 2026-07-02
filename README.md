@@ -48,8 +48,7 @@ class ShreyaChowdhury:
         return "CR for 3+ years — basically a human Slack bot 📣"
 ```
 
-</td>
-<td width="48%" valign="top">
+
 
 <div align="center">
 
@@ -96,77 +95,6 @@ class ShreyaChowdhury:
 ### 🗄️ Databases
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:---:|---|---|
-| 🥇 | **National Finalist — Top 150 · 16th Rank** | National Cloud Innovation Challenge 2026 · among 1,500+ developers |
-| 🌟 | **Top 5000 Finalist** | Build With India 2025 |
-| 📣 | **Class Representative — 3+ Years** | Led communication & coordination for 60+ students |
-| 🎤 | **Volunteer — XPMC Learner Interaction Session** | Engaged and facilitated learning for 500+ students |
-
-</div>
-
----
-
-## 📺 Latest YouTube Videos
-
-<!-- Replace these thumbnail URLs with your actual YouTube video thumbnails and links -->
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/KWsmJgv7vKU">
-      <img src="https://img.youtube.com/vi/KWsmJgv7vKU/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/KWsmJgv7vKU"><b>ZeroShield AI — SOC Platform Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/yUpHiGzo7LA">
-      <img src="https://img.youtube.com/vi/yUpHiGzo7LA/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/yUpHiGzo7LA"><b>Glow-AI — Beauty Marketplace Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/EwJpWAvoCvQ">
-      <img src="https://img.youtube.com/vi/EwJpWAvoCvQ/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/EwJpWAvoCvQ"><b>Sleep Hours Prediction ML App</b></a>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/r4Ar0N3bLvs">
-      <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/r4Ar0N3bLvs"><b>Non-Falling Smart Car — IoT Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/cdm9KWGWJNU">
-      <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/cdm9KWGWJNU"><b>BlockVault — Blockchain App Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/7tQNUXkdYoU">
-      <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="200" style="border-radius:8px"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/7tQNUXkdYoU"><b>SplitX — Expense Tracker Demo</b></a>
-  </td>
-</tr>
-</table>
 </div>
 
 ---
@@ -418,6 +346,21 @@ class ShreyaChowdhury:
 | Cybersecurity Analyst Job Simulation | TATA | [🔗 View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_6a1851bf417ca6953310f266_1780553979598_completion_certificate.pdf) |
 
 </details>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|:---:|---|---|
+| 🥇 | **National Finalist — Top 150 · 16th Rank** | National Cloud Innovation Challenge 2026 · among 1,500+ developers |
+| 🌟 | **Top 5000 Finalist** | Build With India 2025 |
+| 📣 | **Class Representative — 3+ Years** | Led communication & coordination for 60+ students |
+| 🎤 | **Volunteer — XPMC Learner Interaction Session** | Engaged and facilitated learning for 500+ students |
+
+</div>
 
 ---
 
