@@ -219,7 +219,7 @@ class ShreyaChowdhury:
 <td width="50%" valign="top">
 <div align="center">
 
-<a href="https://github.com/Ani-05-ai/Non-Falling-Smart-Car">
+<a href="https://github.com/Shrezzzzz/Non-Falling-Smart-Car">
   <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="100%"/>
 </a>
 
@@ -236,7 +236,7 @@ class ShreyaChowdhury:
 
 <br/>
 
-<a href="https://github.com/Ani-05-ai/Non-Falling-Smart-Car"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Shrezzzzz/Non-Falling-Smart-Car"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://youtu.be/r4Ar0N3bLvs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/posts/shreya-chowdhury-b81988293_embeddedsystems-arduino-iot-activity-7467132894407307264-7tgG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -250,7 +250,7 @@ class ShreyaChowdhury:
 <td width="50%" valign="top">
 <div align="center">
 
-<a href="https://github.com/prakritisarkar/BlockVault">
+<a href="https://github.com/Shrezzzzz/BlockVault">
   <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="100%"/>
 </a>
 
@@ -266,7 +266,7 @@ class ShreyaChowdhury:
 <br/>
 
 <a href="https://blockvault-fe.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/prakritisarkar/BlockVault"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Shrezzzzz/BlockVault"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://youtu.be/cdm9KWGWJNU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/posts/shreya-chowdhury-b81988293_hackathon-diversion2k26-teamcoderiot-activity-7435942148337905665-_RuD"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -277,7 +277,7 @@ class ShreyaChowdhury:
 <td width="50%" valign="top">
 <div align="center">
 
-<a href="https://github.com/prakritisarkar/Split_x">
+<a href="https://github.com/Shrezzzzz/Split_x">
   <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="100%"/>
 </a>
 
@@ -297,7 +297,7 @@ class ShreyaChowdhury:
 <br/>
 
 <a href="https://split-x-umber.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-059669?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/prakritisarkar/Split_x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Shrezzzzz/Split_x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://youtu.be/7tQNUXkdYoU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/posts/adrija-karmakar-9a639028a_connections-hackathon-statuscode2-ugcPost-7367987653515935744-ABep"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
