@@ -332,7 +332,7 @@ class ShreyaChowdhury:
 ## 🎓 Certifications
 
 <details>
-<summary><b>📘 Coursera — expand to view all (12 certificates)</b></summary>
+<summary><b>📘 Coursera — expand to view all (10 certificates)</b></summary>
 <br/>
 
 | Course | Issuer | Certificate |
@@ -343,12 +343,10 @@ class ShreyaChowdhury:
 | Introduction to Computers, OS and Security | Microsoft | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/FFTQE67J486C) |
 | Hardware and Operating System Foundations III | Illinois Tech | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7N5V2D1YPSDX) |
 | Design Thinking for Innovation | University of Virginia | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/JQ0WGUHYJF4T) |
-| Operations Research (2): Optimization Algorithms | — National Taiwan University | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/YT138DXN6ZFY) |
-| Trees and Graphs: Basics | — University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/USAOEDM5G3TX) |
-| Algorithms for Searching, Sorting, and Indexing | — University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/364HNNPR9VYB) |
-| Dynamic Programming, Greedy Algorithms | — University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/JMPN3OHHF1T2) |
-| Advanced Data Structures, RSA and Quantum Algorithms | — University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/LNX1ZPNEWMC6) |
-| Foundations of Data Structures and Algorithms *(Specialization)* | — University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/specialization/86BKOP3BT4CT) |
+| Operations Research (2): Optimization Algorithms | National Taiwan University | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/YT138DXN6ZFY) |
+| Trees and Graphs: Basics | University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/USAOEDM5G3TX) |
+| Algorithms for Searching, Sorting, and Indexing | University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/364HNNPR9VYB) |
+| Advanced Data Structures, RSA and Quantum Algorithms | University of Colorado Boulder | [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/LNX1ZPNEWMC6) |
 
 </details>
 
