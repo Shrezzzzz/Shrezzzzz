@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero banner via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:8B5CF6&height=200&section=header&text=Hey%2C%20it's%20me%20—%20Shreya%20Chowdhury!&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=CSE%20Student%20·%20Cybersecurity%20·%20IoT%20·%20Blockchain%20·%20Full-Stack%20Dev%20·%20Cloud%20%26%20AI&descAlignY=65&descSize=15&descFontColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:8B5CF6&height=200&section=header&text=Hey%2C%20it%27s%20me%20%E2%80%94%20Shreya%20Chowdhury!&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=CSE%20Student%20%C2%B7%20Cybersecurity%20%C2%B7%20IoT%20%C2%B7%20Blockchain%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Cloud%20%26%20AI&descAlignY=65&descSize=15&descFontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <br/>
 
