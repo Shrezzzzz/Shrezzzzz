@@ -51,22 +51,32 @@ class ShreyaChowdhury:
 </td>
 <td width="45%" valign="top">
 
-### 👩‍💻 Quick facts
+<div align="center">
 
-| | |
-|---|---|
-| 🎓 | B.Tech CSE · graduating 2027 |
-| 🏛️ | Sister Nivedita University, Kolkata |
-| 💼 | AWS DevOps Intern · GenAI QA Intern |
-| 🌍 | Kolkata, West Bengal, India |
-| 📣 | Class Rep · 3+ yrs · 60+ students |
+### 👩‍💻 Quick Facts
 
-### 🤣 Current status
+</div>
 
-- 🔭 Working on breaking my code just to fix it again
-- 🌱 Learning how to Google error messages more efficiently
-- 🤔 Looking for help understanding why my code works only when I don't look at it
-- ⚡ Debugging = blaming the computer until I realize it was my fault 🤷‍♀️
+<table>
+  <tr><td>🎓</td><td><b>B.Tech CSE</b> · graduating 2027</td></tr>
+  <tr><td>🏛️</td><td>Sister Nivedita University, Kolkata</td></tr>
+  <tr><td>💼</td><td>AWS DevOps Intern · GenAI QA Intern</td></tr>
+  <tr><td>🌍</td><td>Kolkata, West Bengal, India</td></tr>
+  <tr><td>📣</td><td>Class Rep · 3+ yrs · 60+ students</td></tr>
+</table>
+
+<div align="center">
+
+### 🤣 Current Status
+
+</div>
+
+<table>
+  <tr><td>🔭</td><td>Breaking my code just to fix it again</td></tr>
+  <tr><td>🌱</td><td>Learning to Google errors more efficiently</td></tr>
+  <tr><td>🤔</td><td>Why does code work only when I don't look at it?</td></tr>
+  <tr><td>⚡</td><td>Debugging = blaming the computer… till I realize it's me 🤷‍♀️</td></tr>
+</table>
 
 </td>
 </tr>
@@ -113,136 +123,76 @@ class ShreyaChowdhury:
 
 ---
 
+## 📺 Latest YouTube Videos
+
+<!-- Replace these thumbnail URLs with your actual YouTube video thumbnails and links -->
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/KWsmJgv7vKU">
+      <img src="https://img.youtube.com/vi/KWsmJgv7vKU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/KWsmJgv7vKU"><b>ZeroShield AI — SOC Platform Demo</b></a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/yUpHiGzo7LA">
+      <img src="https://img.youtube.com/vi/yUpHiGzo7LA/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/yUpHiGzo7LA"><b>Glow-AI — Beauty Marketplace Demo</b></a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/EwJpWAvoCvQ">
+      <img src="https://img.youtube.com/vi/EwJpWAvoCvQ/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/EwJpWAvoCvQ"><b>Sleep Hours Prediction ML App</b></a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/r4Ar0N3bLvs">
+      <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/r4Ar0N3bLvs"><b>Non-Falling Smart Car — IoT Demo</b></a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/cdm9KWGWJNU">
+      <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/cdm9KWGWJNU"><b>BlockVault — Blockchain App Demo</b></a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/7tQNUXkdYoU">
+      <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+    </a>
+    <br/>
+    <a href="https://youtu.be/7tQNUXkdYoU"><b>SplitX — Expense Tracker Demo</b></a>
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🛡️ ZeroShield AI — AI-powered Cybersecurity SOC Platform</b></summary>
-<br/>
+<div align="center">
 
-> AI-powered cybersecurity SOC platform with real-time threat detection, attack simulation, and automated response engine.
+| Project | Description | Stack | Links |
+|---|---|---|:---:|
+| 🛡️ **[ZeroShield AI](https://github.com/Shrezzzzz/ZeroShield-AI)** | AI-powered cybersecurity SOC platform with real-time threat detection, attack simulation, and automated response engine | React · TypeScript · Vite · Tailwind · Node.js | [🌐](https://zero-shield-ai.vercel.app/) [▶️](https://youtu.be/KWsmJgv7vKU) [💼](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_powerpuffgirls-nationalfinalist-unstop-activity-7466202407136485376-Qd_w) |
+| 💄 **[Glow-AI](https://github.com/Shrezzzzz/Glow-AI)** | AI-powered beauty/salon marketplace with facial analysis, AI concierge chat, and salon discovery | React · Express · MediaPipe · Groq Llama 3.3 · Tailwind | [🌐](https://glow-ai-frontend.onrender.com) [▶️](https://youtu.be/yUpHiGzo7LA) [💼](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_superxgenbuildathon2026-superxgen-ai-activity-7475205801100627968-FTM7) |
+| 😴 **[Sleep Hours Prediction](https://github.com/Shrezzzzz/sleep-hours-prediction-webapp)** | Flask ML app predicting ideal sleep hours from lifestyle factors with 90%+ accuracy | Python · Flask · Scikit-learn · Pandas · NumPy | [🌐](https://sleep-hours-prediction-webapp.onrender.com/) [▶️](https://youtu.be/EwJpWAvoCvQ) [💼](https://www.linkedin.com/posts/manidipadas_machinelearning-datascience-studentprojects-ugcPost-7423399893559459840-C8D7) |
+| 🚗 **[Non-Falling Smart Car](https://github.com/Ani-05-ai/Non-Falling-Smart-Car)** | Autonomous IoT vehicle using ultrasonic + IR sensors for obstacle avoidance and fall detection, 95% stability rate | Arduino · Embedded C · Ultrasonic Sensor · IR Sensor | [▶️](https://youtu.be/r4Ar0N3bLvs) [💼](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_embeddedsystems-arduino-iot-activity-7467132894407307264-7tgG) |
+| 🔐 **[BlockVault](https://github.com/prakritisarkar/BlockVault)** | Full-stack blockchain-themed application built with Next.js and React | Next.js · React | [🌐](https://blockvault-fe.vercel.app/) [▶️](https://youtu.be/cdm9KWGWJNU) [💼](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_hackathon-diversion2k26-teamcoderiot-activity-7435942148337905665-_RuD) |
+| 💸 **[SplitX](https://github.com/prakritisarkar/Split_x)** | Smart group expense tracker that splits shared expenses, calculates who owes whom, with settlement tracking. Built at a hackathon | HTML · CSS · JS · Node.js · MongoDB · Tailwind | [🌐](https://split-x-umber.vercel.app/) [▶️](https://youtu.be/7tQNUXkdYoU) [💼](https://www.linkedin.com/posts/adrija-karmakar-9a639028a_connections-hackathon-statuscode2-ugcPost-7367987653515935744-ABep) |
 
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8E75B2?style=flat-square&logoColor=white)
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://zero-shield-ai.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrezzzzz/ZeroShield-AI)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/KWsmJgv7vKU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_powerpuffgirls-nationalfinalist-unstop-activity-7466202407136485376-Qd_w)
-
-</details>
-
----
-
-<details open>
-<summary><b>💄 Glow-AI — AI-Powered Beauty & Salon Marketplace</b></summary>
-<br/>
-
-> AI-powered beauty/salon marketplace with facial analysis, AI concierge chat, and salon discovery.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.3-8E75B2?style=flat-square&logoColor=white)
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://glow-ai-frontend.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrezzzzz/Glow-AI)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yUpHiGzo7LA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_superxgenbuildathon2026-superxgen-ai-activity-7475205801100627968-FTM7)
-
-</details>
-
----
-
-<details open>
-<summary><b>😴 Sleep Hours Prediction WebApp — ML-Powered Lifestyle Predictor</b></summary>
-<br/>
-
-> Flask ML app predicting ideal sleep hours from lifestyle factors (caffeine, screen time, work hours) with 90%+ accuracy.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://sleep-hours-prediction-webapp.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrezzzzz/sleep-hours-prediction-webapp)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/EwJpWAvoCvQ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/manidipadas_machinelearning-datascience-studentprojects-ugcPost-7423399893559459840-C8D7)
-
-</details>
-
----
-
-<details open>
-<summary><b>🚗 Non-Falling Smart Car — Autonomous IoT Vehicle</b></summary>
-<br/>
-
-> Autonomous IoT vehicle using ultrasonic + IR sensors for obstacle avoidance and edge/fall detection, 95% stability rate.
-
-**Tech Stack:**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Ultrasonic](https://img.shields.io/badge/Ultrasonic_Sensor-1E3A8A?style=flat-square&logoColor=white)
-![IR Sensor](https://img.shields.io/badge/IR_Sensor-8E75B2?style=flat-square&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ani-05-ai/Non-Falling-Smart-Car)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/r4Ar0N3bLvs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_embeddedsystems-arduino-iot-activity-7467132894407307264-7tgG)
-
-</details>
-
----
-
-<details open>
-<summary><b>🔐 BlockVault — Full-Stack Blockchain App</b></summary>
-<br/>
-
-> Full-stack blockchain-themed application built with Next.js and React.
-
-**Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://blockvault-fe.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakritisarkar/BlockVault)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cdm9KWGWJNU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shreya-chowdhury-b81988293_hackathon-diversion2k26-teamcoderiot-activity-7435942148337905665-_RuD)
-
-</details>
-
----
-
-<details open>
-<summary><b>💸 SplitX — Smart Group Expense Tracker</b></summary>
-<br/>
-
-> Smart group expense tracker that splits shared expenses, calculates who owes whom, with settlement tracking and group management. Built at a hackathon.
-
-**Tech Stack:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://split-x-umber.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakritisarkar/Split_x)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7tQNUXkdYoU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adrija-karmakar-9a639028a_connections-hackathon-statuscode2-ugcPost-7367987653515935744-ABep)
-
-</details>
+</div>
 
 ---
 
