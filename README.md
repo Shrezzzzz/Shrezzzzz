@@ -432,7 +432,7 @@ class ShreyaChowdhury:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2500&color=A855F7&center=true&vCenter=true&width=560&height=36&lines=💬+Open+to+collabs%2C+internships+%26+tech+chats;🚀+Got+a+cool+idea%3F+Let%27s+build+it+together;📬+Ping+me+—+I+don%27t+bite+%28usually%29+👾)](https://github.com/Shrezzzzz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2500&color=A855F7&center=true&vCenter=true&width=560&height=36&lines=💬+Open+to+collabs%2C+internships+%26+tech+chats;🚀+Got+a+cool+idea%3F+Let%27s+build+it+together;📬+Ping+me+on+any+social+platform+you+want+👾)](https://github.com/Shrezzzzz)
 
 <br/><br/>
 
@@ -440,6 +440,7 @@ class ShreyaChowdhury:
 <a href="mailto:shreyachowdhury973@gmail.com"><img src="https://img.shields.io/badge/Email-shreyachowdhury973%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://shreyachowdhury.onrender.com"><img src="https://img.shields.io/badge/Portfolio-shreyachowdhury.onrender.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Shrezzzzz"><img src="https://img.shields.io/badge/LeetCode-Shrezzzzz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.instagram.com/_shrezzzzz_/"><img src="https://img.shields.io/badge/Instagram-_shrezzzzz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
