@@ -1,0 +1,21 @@
+<svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#6d28d9"/>
+      <stop offset="40%"  stop-color="#4c1d95"/>
+      <stop offset="75%"  stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3730a3" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave top -->
+  <path d="M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,0 L0,0 Z"
+        fill="url(#wave1)"/>
+
+  <!-- Background fill below wave -->
+  <rect x="0" y="30" width="1200" height="70" fill="url(#bg)"/>
+</svg>
