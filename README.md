@@ -117,70 +117,6 @@ class ShreyaChowdhury:
 
 ---
 
-## 🏆 Achievements
-
-<table>
-<tr>
-
-<td width="33%" valign="top" bgcolor="#ffffff">
-<div align="center">
-<br/>
-
-### 🥇
-
-**National Finalist — Top 150 · 16th Rank**
-
-<sub>National Cloud Innovation Challenge 2026<br/>Among 1,500+ developers nationwide</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NCIC-2026-D97706?style=for-the-badge"/>
-
-<br/>
-</div>
-</td>
-
-<td width="34%" valign="top" bgcolor="#f0f0f0">
-<div align="center">
-<br/>
-
-### 🌟
-
-**Top 5000 Finalist**
-
-<sub>Build With India 2025<br/>Selected from tens of thousands</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Build%20With%20India-2025-6D28D9?style=for-the-badge"/>
-
-<br/>
-</div>
-</td>
-
-<td width="33%" valign="top" bgcolor="#ffffff">
-<div align="center">
-<br/>
-
-### 📣
-
-**Class Representative — 3+ Years**
-
-<sub>Led coordination for 60+ students<br/>across 3 academic years</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SNU-2023–2027-0EA5E9?style=for-the-badge"/>
-
-<br/>
-</div>
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -427,6 +363,74 @@ class ShreyaChowdhury:
 | Cybersecurity Analyst Job Simulation | TATA | [🔗 View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_6a1851bf417ca6953310f266_1780553979598_completion_certificate.pdf) |
 
 </details>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+<table width="90%">
+<tr>
+
+<td width="33%" valign="top" bgcolor="#ffffff">
+<div align="center">
+<br/>
+
+### 🥇
+
+**National Finalist — Top 150 · 16th Rank**
+
+<sub>National Cloud Innovation Challenge 2026<br/>Among 1,500+ developers nationwide</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NCIC-2026-D97706?style=for-the-badge"/>
+
+<br/>
+</div>
+</td>
+
+<td width="34%" valign="top" bgcolor="#f0f0f0">
+<div align="center">
+<br/>
+
+### 🌟
+
+**Top 5000 Finalist**
+
+<sub>Build With India 2025<br/>Selected from tens of thousands</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Build%20With%20India-2025-6D28D9?style=for-the-badge"/>
+
+<br/>
+</div>
+</td>
+
+<td width="33%" valign="top" bgcolor="#ffffff">
+<div align="center">
+<br/>
+
+### 📣
+
+**Class Representative — 3+ Years**
+
+<sub>Led coordination for 60+ students<br/>across 3 academic years</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SNU-2023–2027-0EA5E9?style=for-the-badge"/>
+
+<br/>
+</div>
+</td>
+
+</tr>
+</table>
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
