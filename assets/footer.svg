@@ -1,21 +1,107 @@
 <svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#6d28d9"/>
-      <stop offset="40%"  stop-color="#4c1d95"/>
+      <stop offset="0%"   stop-color="#0d0b1e"/>
+      <stop offset="40%"  stop-color="#130d2a"/>
       <stop offset="75%"  stop-color="#1e3a8a"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2e1065"/>
     </linearGradient>
     <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#3730a3" stop-opacity="0.5"/>
+      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0.7"/>
+      <stop offset="50%"  stop-color="#a855f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3730a3" stop-opacity="0.7"/>
     </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4c1d95" stop-opacity="0.5"/>
+      <stop offset="50%"  stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.5"/>
+    </linearGradient>
+    <pattern id="scanlines" x="0" y="0" width="2" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="1" fill="#ffffff" fill-opacity="0.025"/>
+    </pattern>
+    <pattern id="hlines" x="0" y="0" width="1200" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1200" height="1" fill="#6d28d9" fill-opacity="0.07"/>
+    </pattern>
   </defs>
 
-  <!-- Wave top -->
-  <path d="M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,0 L0,0 Z"
+  <style>
+    /* Wave 1 — slow left-right sway */
+    .wave1 { animation: sway1 6s ease-in-out infinite; }
+    @keyframes sway1 {
+      0%   { d: path("M0,38 C150,12 350,58 600,32 C850,6  1050,52 1200,28 L1200,0 L0,0 Z"); }
+      50%  { d: path("M0,28 C180,55 380,8  600,42 C820,58 1020,14 1200,38 L1200,0 L0,0 Z"); }
+      100% { d: path("M0,38 C150,12 350,58 600,32 C850,6  1050,52 1200,28 L1200,0 L0,0 Z"); }
+    }
+
+    /* Wave 2 — slightly faster, opposite phase */
+    .wave2 { animation: sway2 8s ease-in-out infinite; }
+    @keyframes sway2 {
+      0%   { d: path("M0,55 C200,25 420,70 650,45 C880,20 1050,65 1200,42 L1200,100 L0,100 Z"); }
+      50%  { d: path("M0,45 C220,72 440,22 650,58 C860,72 1030,28 1200,55 L1200,100 L0,100 Z"); }
+      100% { d: path("M0,55 C200,25 420,70 650,45 C880,20 1050,65 1200,42 L1200,100 L0,100 Z"); }
+    }
+
+    /* Floating code lines rising from bottom */
+    .ff1 { animation: floatFooter 12s ease-in-out 0s   infinite; }
+    .ff2 { animation: floatFooter 15s ease-in-out 2.5s infinite; }
+    .ff3 { animation: floatFooter 11s ease-in-out 5s   infinite; }
+    .ff4 { animation: floatFooter 14s ease-in-out 1.5s infinite; }
+    .ff5 { animation: floatFooter 13s ease-in-out 4s   infinite; }
+
+    @keyframes floatFooter {
+      0%   { transform: translateY(0px);   opacity: 0;    }
+      12%  { opacity: 0.72; }
+      80%  { opacity: 0.60; }
+      100% { transform: translateY(-35px); opacity: 0;    }
+    }
+
+    /* Cursor blink on closing quote */
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="100" fill="url(#bg)"/>
+  <rect width="1200" height="100" fill="url(#hlines)"/>
+  <rect width="1200" height="100" fill="url(#scanlines)"/>
+
+  <!-- Animated wave layer 1 (top edge) -->
+  <path class="wave1"
+        d="M0,38 C150,12 350,58 600,32 C850,6 1050,52 1200,28 L1200,0 L0,0 Z"
         fill="url(#wave1)"/>
 
-  <!-- Background fill below wave -->
-  <rect x="0" y="30" width="1200" height="70" fill="url(#bg)"/>
+  <!-- Animated wave layer 2 (bottom fill) -->
+  <path class="wave2"
+        d="M0,55 C200,25 420,70 650,45 C880,20 1050,65 1200,42 L1200,100 L0,100 Z"
+        fill="url(#wave2)"/>
+
+  <!-- Corner brackets matching header style -->
+  <polyline points="8,18 8,6 20,6"     fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-opacity="0.8"/>
+  <polyline points="8,82 8,94 20,94"   fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-opacity="0.8"/>
+  <polyline points="1192,18 1192,6 1180,6"   fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-opacity="0.8"/>
+  <polyline points="1192,82 1192,94 1180,94" fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-opacity="0.8"/>
+
+  <!-- Closing quote centred -->
+  <text x="600" y="62" text-anchor="middle"
+        font-family="Courier New, monospace" font-size="13"
+        fill="#c084fc" letter-spacing="0.5">// learn · work · build in public</text>
+
+  <!-- Floating code snippets -->
+  <text x="80"  y="88" font-family="Courier New, monospace" font-size="12"
+        fill="#a78bfa" letter-spacing="0.4" class="ff1">exit(0)  // see you next commit</text>
+
+  <text x="320" y="82" font-family="Courier New, monospace" font-size="12"
+        fill="#c084fc" letter-spacing="0.4" class="ff2">&#125; // end of profile</text>
+
+  <text x="620" y="90" font-family="Courier New, monospace" font-size="12"
+        fill="#a78bfa" letter-spacing="0.4" class="ff3">git push origin main</text>
+
+  <text x="830" y="85" font-family="Courier New, monospace" font-size="12"
+        fill="#c084fc" letter-spacing="0.4" class="ff4">console.log('thanks for visiting')</text>
+
+  <text x="1020" y="88" font-family="Courier New, monospace" font-size="12"
+        fill="#a78bfa" letter-spacing="0.4" class="ff5">&#126;&#126;EOF</text>
 </svg>

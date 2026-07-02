@@ -5,7 +5,10 @@
 
 <br/>
 
-*Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.*
+<img src="https://img.shields.io/badge/🛡️_Cybersecurity-SOC_Platforms-7c3aed?style=for-the-badge&labelColor=0d0b1e"/>
+<img src="https://img.shields.io/badge/🚗_IoT-Autonomous_Vehicles-4c1d95?style=for-the-badge&labelColor=0d0b1e"/>
+<img src="https://img.shields.io/badge/💄_AI-Beauty_Tech-a855f7?style=for-the-badge&labelColor=0d0b1e"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-DevOps_%26_MLOps-1e3a8a?style=for-the-badge&labelColor=0d0b1e"/>
 
 <br/>
 
