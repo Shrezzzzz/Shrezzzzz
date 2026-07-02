@@ -1,10 +1,11 @@
 <div align="center">
 
-## Hey, it's me — Shreya Chowdhury! 👋
+<!-- Hero banner via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:8B5CF6&height=200&section=header&text=Hey%2C%20it's%20me%20—%20Shreya%20Chowdhury!&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=CSE%20Student%20·%20Cybersecurity%20·%20IoT%20·%20Blockchain%20·%20Full-Stack%20Dev%20·%20Cloud%20%26%20AI&descAlignY=65&descSize=15&descFontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-### CSE Student &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Blockchain &nbsp;·&nbsp; Full-Stack Dev &nbsp;·&nbsp; Cloud & AI
+<br/>
 
-Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.
+*Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.*
 
 <br/>
 
@@ -449,3 +450,6 @@ Always open to collaborating on interesting projects, internship opportunities, 
 <img src="https://komarev.com/ghpvc/?username=Shrezzzzz&label=Profile+Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
 
 </div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:1E3A8A&height=100&section=footer" width="100%"/>
