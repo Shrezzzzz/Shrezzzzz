@@ -1,10 +1,10 @@
 <div align="center">
 
-# Shreya Chowdhury 👋
+## hey, it's me — Shreya Chowdhury! 👋
 
-### CSE Student · Cybersecurity · IoT · Blockchain · Full-Stack Dev · Cloud & AI
+### CSE Student &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Blockchain &nbsp;·&nbsp; Full-Stack Dev &nbsp;·&nbsp; Cloud & AI
 
-<sub>Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.</sub>
+Building real projects, one commit at a time — from SOC platforms to autonomous vehicles to beauty-tech AI.
 
 <br/>
 
@@ -65,8 +65,8 @@ class ShreyaChowdhury:
         return "CR for 3+ years — basically a human Slack bot 📣"
 ```
 
-
-
+</td>
+<td width="48%" valign="top">
 
 <div align="center">
 
@@ -83,7 +83,10 @@ class ShreyaChowdhury:
 
 **🤣 Current Status**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=380&height=40&lines=🔭+Breaking+my+code+just+to+fix+it+again;🌱+Learning+to+Google+errors+more+efficiently;🤔+Why+does+code+work+when+I+don't+look%3F;⚡+Debugging+%3D+blaming+the+computer...+oops+🤷)](https://github.com/Shrezzzzz)
+🔭 &nbsp;Breaking my code just to fix it again<br/>
+🌱 &nbsp;Learning to Google errors more efficiently<br/>
+🤔 &nbsp;Why does code work only when I don't look at it?<br/>
+⚡ &nbsp;Debugging = blaming the computer… till I realize it's me 🤷‍♀️
 
 </div>
 
@@ -117,85 +120,62 @@ class ShreyaChowdhury:
 
 ---
 
-<<<<<<< HEAD
-=======
 ## 🏆 Achievements
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top" bgcolor="#ffffff">
 <div align="center">
-
 <br/>
 
-# 🥇
+### 🥇
 
 **National Finalist — Top 150 · 16th Rank**
 
-<sub>National Cloud Innovation Challenge 2026<br/>Competed among 1,500+ developers nationwide</sub>
+<sub>National Cloud Innovation Challenge 2026<br/>Among 1,500+ developers nationwide</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/National%20Cloud%20Innovation%20Challenge-2026-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NCIC-2026-D97706?style=for-the-badge"/>
 
+<br/>
 </div>
 </td>
 
-<td width="50%" valign="top">
+<td width="34%" valign="top" bgcolor="#f0f0f0">
 <div align="center">
-
 <br/>
 
-# 🌟
+### 🌟
 
 **Top 5000 Finalist**
 
-<sub>Build With India 2025<br/>Selected from tens of thousands of participants</sub>
+<sub>Build With India 2025<br/>Selected from tens of thousands</sub>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Build%20With%20India-2025-6D28D9?style=for-the-badge"/>
 
+<br/>
 </div>
 </td>
 
-</tr>
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top" bgcolor="#ffffff">
 <div align="center">
-
 <br/>
 
-# 📣
+### 📣
 
 **Class Representative — 3+ Years**
 
-<sub>Led communication & coordination<br/>for 60+ students across 3 academic years</sub>
+<sub>Led coordination for 60+ students<br/>across 3 academic years</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Sister%20Nivedita%20University-2023–2027-0EA5E9?style=for-the-badge"/>
-
-</div>
-</td>
-
-<td width="50%" valign="top">
-<div align="center">
+<img src="https://img.shields.io/badge/SNU-2023–2027-0EA5E9?style=for-the-badge"/>
 
 <br/>
-
-# 🎤
-
-**Volunteer — XPMC Learner Interaction Session**
-
-<sub>Engaged and facilitated learning<br/>for 500+ students at a large-scale event</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/500%2B%20Students%20Reached-XPMC%20Session-059669?style=for-the-badge"/>
-
 </div>
 </td>
 
@@ -206,27 +186,26 @@ class ShreyaChowdhury:
 
 ## 📺 Latest YouTube Videos
 
-<!-- Replace these thumbnail URLs with your actual YouTube video thumbnails and links -->
 <div align="center">
 <table>
 <tr>
   <td align="center" width="33%">
     <a href="https://youtu.be/KWsmJgv7vKU">
-      <img src="https://img.youtube.com/vi/KWsmJgv7vKU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/KWsmJgv7vKU/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/KWsmJgv7vKU"><b>ZeroShield AI — SOC Platform Demo</b></a>
   </td>
   <td align="center" width="33%">
     <a href="https://youtu.be/yUpHiGzo7LA">
-      <img src="https://img.youtube.com/vi/yUpHiGzo7LA/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/yUpHiGzo7LA/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/yUpHiGzo7LA"><b>Glow-AI — Beauty Marketplace Demo</b></a>
   </td>
   <td align="center" width="33%">
     <a href="https://youtu.be/EwJpWAvoCvQ">
-      <img src="https://img.youtube.com/vi/EwJpWAvoCvQ/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/EwJpWAvoCvQ/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/EwJpWAvoCvQ"><b>Sleep Hours Prediction ML App</b></a>
@@ -235,21 +214,21 @@ class ShreyaChowdhury:
 <tr>
   <td align="center" width="33%">
     <a href="https://youtu.be/r4Ar0N3bLvs">
-      <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/r4Ar0N3bLvs"><b>Non-Falling Smart Car — IoT Demo</b></a>
   </td>
   <td align="center" width="33%">
     <a href="https://youtu.be/cdm9KWGWJNU">
-      <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/cdm9KWGWJNU"><b>BlockVault — Blockchain App Demo</b></a>
   </td>
   <td align="center" width="33%">
     <a href="https://youtu.be/7tQNUXkdYoU">
-      <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="200" style="border-radius:8px"/>
+      <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="200"/>
     </a>
     <br/>
     <a href="https://youtu.be/7tQNUXkdYoU"><b>SplitX — Expense Tracker Demo</b></a>
@@ -260,7 +239,6 @@ class ShreyaChowdhury:
 
 ---
 
->>>>>>> 40862b8 (redesign: bold About Me badge wall + 2-col project hero cards)
 ## 🚀 Featured Projects
 
 <table>
@@ -466,7 +444,6 @@ class ShreyaChowdhury:
 <picture>
   <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Shrezzzzz/Shrezzzzz/output/github-contribution-grid-snake-dark.svg">
-
   <img src="https://raw.githubusercontent.com/Shrezzzzz/Shrezzzzz/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -511,80 +488,6 @@ class ShreyaChowdhury:
 
 ---
 
-<<<<<<< HEAD
-## 🏆 Achievements
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-
-<br/>
-
-# 🥇
-
-**National Finalist — Top 150 · 16th Rank**
-
-<sub>National Cloud Innovation Challenge 2026<br/>Competed among 1,500+ developers nationwide</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/National%20Cloud%20Innovation%20Challenge-2026-D97706?style=for-the-badge"/>
-
-</div>
-</td>
-
-<td width="50%" valign="top">
-<div align="center">
-
-<br/>
-
-# 🌟
-
-**Top 5000 Finalist**
-
-<sub>Build With India 2025<br/>Selected from tens of thousands of participants</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Build%20With%20India-2025-6D28D9?style=for-the-badge"/>
-
-</div>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-
-<br/>
-
-# 📣
-
-**Class Representative — 3+ Years**
-
-<sub>Led communication & coordination<br/>for 60+ students across 3 academic years</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Sister%20Nivedita%20University-2023–2027-0EA5E9?style=for-the-badge"/>
-
-</div>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-
-<br/>
-
-</tr>
-</table>
-
 > *"Learn, work, and build in public."*
 
 ---
@@ -593,17 +496,7 @@ class ShreyaChowdhury:
 
 <div align="center">
 
-=======
-> *"Learn, work, and build in public."*
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
->>>>>>> 40862b8 (redesign: bold About Me badge wall + 2-col project hero cards)
-<sub>Always open to collaborating on interesting projects, internship opportunities, or just a good tech chat.</sub>
+Always open to collaborating on interesting projects, internship opportunities, or just a good tech chat.
 
 <br/><br/>
 
