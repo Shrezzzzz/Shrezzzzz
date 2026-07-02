@@ -1,6 +1,6 @@
 <div align="center">
 
-## hey, it's me — Shreya Chowdhury! 👋
+## Hey, it's me — Shreya Chowdhury! 👋
 
 ### CSE Student &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Blockchain &nbsp;·&nbsp; Full-Stack Dev &nbsp;·&nbsp; Cloud & AI
 
@@ -65,9 +65,6 @@ class ShreyaChowdhury:
         return "CR for 3+ years — basically a human Slack bot 📣"
 ```
 
-</td>
-<td width="48%" valign="top">
-
 <div align="center">
 
 **👩‍💻 Quick Facts**
@@ -83,10 +80,7 @@ class ShreyaChowdhury:
 
 **🤣 Current Status**
 
-🔭 &nbsp;Breaking my code just to fix it again<br/>
-🌱 &nbsp;Learning to Google errors more efficiently<br/>
-🤔 &nbsp;Why does code work only when I don't look at it?<br/>
-⚡ &nbsp;Debugging = blaming the computer… till I realize it's me 🤷‍♀️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=420&height=45&lines=🔭+Breaking+my+code+just+to+fix+it+again;🌱+Learning+to+Google+errors+more+efficiently;🤔+Why+does+code+work+when+I+don't+look%3F;⚡+Debugging+%3D+blaming+the+computer...+oops+🤷)](https://github.com/Shrezzzzz)
 
 </div>
 
@@ -181,61 +175,6 @@ class ShreyaChowdhury:
 
 </tr>
 </table>
-
----
-
-## 📺 Latest YouTube Videos
-
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/KWsmJgv7vKU">
-      <img src="https://img.youtube.com/vi/KWsmJgv7vKU/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/KWsmJgv7vKU"><b>ZeroShield AI — SOC Platform Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/yUpHiGzo7LA">
-      <img src="https://img.youtube.com/vi/yUpHiGzo7LA/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/yUpHiGzo7LA"><b>Glow-AI — Beauty Marketplace Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/EwJpWAvoCvQ">
-      <img src="https://img.youtube.com/vi/EwJpWAvoCvQ/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/EwJpWAvoCvQ"><b>Sleep Hours Prediction ML App</b></a>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/r4Ar0N3bLvs">
-      <img src="https://img.youtube.com/vi/r4Ar0N3bLvs/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/r4Ar0N3bLvs"><b>Non-Falling Smart Car — IoT Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/cdm9KWGWJNU">
-      <img src="https://img.youtube.com/vi/cdm9KWGWJNU/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/cdm9KWGWJNU"><b>BlockVault — Blockchain App Demo</b></a>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://youtu.be/7tQNUXkdYoU">
-      <img src="https://img.youtube.com/vi/7tQNUXkdYoU/mqdefault.jpg" width="200"/>
-    </a>
-    <br/>
-    <a href="https://youtu.be/7tQNUXkdYoU"><b>SplitX — Expense Tracker Demo</b></a>
-  </td>
-</tr>
-</table>
-</div>
 
 ---
 
